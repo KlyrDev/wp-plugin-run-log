@@ -22,6 +22,7 @@ The WordPress Plugin Boilerplate includes the following files:
   * `js`. JavaScript files directory.
     * `admin-script.js`. JavaScript code used by this plugin.
 
+change#1
 ## Features
 
 * Add custom post type for logging a running activity.
